@@ -13,4 +13,3 @@ A new way to structure projects
 ## Tools
 
 - Github Projects can be integrated with Notion, Linear, Slack, Trello and more.
-- Zappier integration
