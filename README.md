@@ -3,7 +3,7 @@
 A new way to structure projects
 
 ## Ideas
-
+asdasd
 - Follow the GitFlow patter;
 - Apply branch rules;
 - Use Github Projects to manage Issues and PRs;
